@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Django  
-- 📫 How to reach me: Twitter(@_b14d35)
-
+- 📫 How to reach me: Twitter(@_b14d35)  
+Facebook Hall of Fame: https://www.facebook.com/whitehat/thanks  
+![Facebook Hall of Fame](https://pbs.twimg.com/media/Eeh05MuWoAITMBv?format=png&name=small)
 <!--
 **b14d35/b14d35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
