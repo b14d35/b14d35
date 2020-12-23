@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Django  
+- 🔭 I’m currently working on making my Python expertise better. 
 - 📫 How to reach me: Twitter(@_b14d35)  
 Facebook Hall of Fame: https://www.facebook.com/whitehat/thanks  
 ![Facebook Hall of Fame](https://pbs.twimg.com/media/Eeh05MuWoAITMBv?format=png&name=small)
